@@ -1,0 +1,18 @@
+/* css stylesheet for exercise 3 */
+
+/* for first element */
+.first {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* for second element */
+.second {
+    background-color: #FFCC66;
+}
+
+/* for both elements */
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', "Times New Roman", sans-serif;
+}
