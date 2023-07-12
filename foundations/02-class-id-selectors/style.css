@@ -1,0 +1,30 @@
+/* css style sheet for index.html, exercise 2 */
+
+/* all odd-numbered elements
+   "odd" class added to html sheet */
+.odd {
+    background-color: #EFA6A6;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+/* second element only,
+   "second" id added to html */
+#second {
+    color: #2454F0;
+    font-size: 36px;
+}
+
+/* third element only,
+   "third" id added to html,
+   in addition to styles for odd-numbered elements */
+   #third {
+    font-size: 24px;
+   }
+
+   /* fourth element only,
+   "fourth" id added to html */
+   #fourth {
+    background-color: #86D799;
+    font-size: 24px;
+    font-weight: 700;
+   }
