@@ -1,0 +1,10 @@
+/* styles.css */
+/* external method for adding css to html */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
